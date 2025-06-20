@@ -1,0 +1,3 @@
+# requirements.txt
+web3==6.15.1
+apscheduler==3.10.4
